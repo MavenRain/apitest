@@ -1,0 +1,9 @@
+{
+  "name": "fiddle",
+  "version": "0.0.1",
+  "dependencies":
+  {
+    "express": "latest",
+    "mongodb": "latest"
+  }
+}
